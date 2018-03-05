@@ -1,0 +1,4 @@
+string move_group_name
+string pose_name
+string planner_name
+---
